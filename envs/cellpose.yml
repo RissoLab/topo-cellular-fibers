@@ -1,0 +1,24 @@
+name: env-cellpose
+channels:
+    - pytorch
+    - nvidia
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pip
+    - pytorch
+    - torchvision
+    - torchaudio
+    - pytorch-cuda=12.1
+    - numpy
+    - scipy
+    - scikit-image
+    - tifffile
+    - imagecodecs
+    - opencv
+    - tqdm
+    - natsort
+    - numba
+    - fastremap
+    - pip:
+          - cellpose

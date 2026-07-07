@@ -1,0 +1,14 @@
+name: env-tda
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pip
+    - numpy
+    - scipy
+    - scikit-image
+    - tifffile
+    - imagecodecs
+    - tqdm
+    - pip:
+          - pixhomology

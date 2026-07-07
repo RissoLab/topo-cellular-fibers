@@ -4,7 +4,7 @@ Code used for  `A topological object-proposal pipeline for cellular fiber segmen
 
 The repository contains two segmentation workflows for H&E `.tif` images:
 
-- `cellpose/`: Cellpose/CPSAM segmentation.
+- `cellpose/`: [Cellpose/CPSAM segmentation](https://github.com/mouseland/cellpose).
 - `tda/`: persistent-homology object proposal and post-processing.
 
 ## Setup

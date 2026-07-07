@@ -1,0 +1,31 @@
+envs/cellpose.yml
+  s_094bc3ea98e354::t_f22007b5323098 1-24
+tda/tda.sh
+  s_094bc3ea98e354::t_add84b21697d63 8-9,16-106
+  s_094bc3ea98e354::t_547190f062bbdd 5-7
+  s_094bc3ea98e354::t_2aa7ce7a79539c 10-15
+README.md
+  s_094bc3ea98e354::t_8353ab366c4d4a 1-59
+envs/tda.yml
+  s_094bc3ea98e354::t_f22007b5323098 2-14
+  s_094bc3ea98e354::t_2a9c010bddc62d 1
+cellpose/cellpose.sh
+  s_094bc3ea98e354::t_add84b21697d63 15-128
+  s_094bc3ea98e354::t_17231935db0e34 12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dad37d4db5bdcc673956a149fce91de61ac00a1e",
+  "prompts": {},
+  "sessions": {
+    "s_094bc3ea98e354": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3c78-89de-7210-8276-690acc53492e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}

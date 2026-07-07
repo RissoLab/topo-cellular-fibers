@@ -1,6 +1,6 @@
 # Topological Cellular Fiber Segmentation
 
-Code used for  `A-topological-object-proposal-pipeline-for-cellular-fibre-segmentation`
+Code used for  `A topological object-proposal pipeline for cellular fiber segmentation`
 
 The repository contains two segmentation workflows for H&E `.tif` images:
 
